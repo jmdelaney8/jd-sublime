@@ -1,0 +1,25 @@
+{
+color_scheme: Packages/GitHub Theme/schemes/GitHub Light.sublime-color-scheme,
+default_line_ending: unix,
+detect_indentation: true,
+font_size: 11,
+highlight_line: true,
+hot_exit: false,
+ignored_packages:
+[
+Vintage,
+],
+remember_open_files: false,
+rulers:
+[
+80
+],
+show_encoding: true,
+theme: GitHub Light.sublime-theme,
+translate_tabs_to_spaces: true,
+use_tab_stops: false,
+word_wrap: false,
+dark_color_scheme: Packages/Github Color Theme/GitHub.tmTheme,
+light_color_scheme: Packages/Github Color Theme/GitHub.tmTheme,
+}
+
