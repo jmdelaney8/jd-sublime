@@ -1,7 +1,7 @@
 [
-    { keys: [ctrl+shift+o], command: prompt_open_folder},
-    { keys: [ctrl+9], command: toggle_side_bar},
-    { keys: [ctrl+10], command: toggle_minimap},
-    { keys: [ctrl+e], command: move_to, args: {to: eol, extend: false}},
-    { keys: [ctrl+a], command: move_to, args: {to: bol, extend: false}}
+    { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder"},
+    { "keys": ["ctrl+9"], "command": "toggle_side_bar"},
+    { "keys": ["ctrl+10"], "command": "toggle_minimap"},
+    { "keys": ["ctrl+e"], "command": "move_to", "args": {"to": "eol", "extend": false}},
+    { "keys": ["ctrl+a"], "command": "move_to", "args": {"to": "bol", "extend": false}}
 ]
